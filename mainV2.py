@@ -1,8 +1,6 @@
 import tkinter as tk
 import openai
 
-openai.api_key = "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"
-
 history = []
 
 def set_api_key():
